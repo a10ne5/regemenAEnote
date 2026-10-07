@@ -1,0 +1,2107 @@
+{
+  "gb": [
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症 / 感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度好中球減少",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度血小板減少 / 出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "輸注関連反応",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重度皮膚障害 / 重症薬疹",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "B型肝炎再活性化",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "PMLを示唆する神経症状",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "肺臓炎 / 間質性肺疾患",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "心不全",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "虚血・不整脈・心膜障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重篤な消化管障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "warn",
+      "title": "好中球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "血小板減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "貧血",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "皮疹 / 皮膚症状",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心・嘔吐・食欲低下",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "倦怠感",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "咳嗽",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "頭痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "そう痒症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "関節痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "低血圧",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "不眠症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発熱 / 下痢 / 便秘 / 悪寒",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "遅発性を含む感染リスク",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "B細胞枯渇関連イベント",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "骨髄抑制の遷延",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "皮疹の遷延 / 重症化",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "リンパ球数減少",
+      "displayTone": "info"
+    }
+  ],
+  "polaBr": [
+    {
+      "tone": "danger",
+      "title": "重度感染症 / 肺炎",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症 / 高度好中球減少",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度血小板減少 / 出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "輸注関連反応",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重度皮膚障害 / SCARs",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "進行性多巣性白質脳症 / 神経症状",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "B型肝炎再活性化の確認",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肺臓炎 / 間質性肺疾患",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "心不全",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "虚血・不整脈・心膜障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重篤な消化管障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "肝機能障害",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "warn",
+      "title": "好中球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "血小板減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "貧血",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "末梢神経障害",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "下痢",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発熱",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "食欲低下",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "皮疹 / そう痒 / 皮膚症状",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "肺炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "便秘",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "末梢神経障害",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "輸注関連反応",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "日和見感染を含む感染症",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "皮疹の遷延 / 重症化",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "PMLを示唆する神経症状",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "血管外漏出",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "リンパ球数減少",
+      "displayTone": "info"
+    }
+  ],
+  "polaRChp": [
+    {
+      "tone": "danger",
+      "title": "重度感染症 / 肺炎 / 敗血症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症 / 高度好中球減少",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "輸注関連反応",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "B型肝炎再活性化 / 重度肝障害",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "PMLを示唆する神経症状",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "心機能低下 / 不整脈",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肺臓炎 / 間質性肺疾患",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重症薬疹の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重篤な消化管障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "warn",
+      "title": "末梢神経障害",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "下痢",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "便秘",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "貧血",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "口腔粘膜炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "食欲低下",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発熱",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "脱毛症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "頭痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "咳嗽",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "体重減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "味覚異常",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "末梢神経障害",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "輸注関連反応",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "血尿 / 出血性膀胱炎",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "遅発性心機能低下",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "HBV再活性化",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "PMLを示唆する神経症状",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "血管外漏出",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "SIADH / 水中毒の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "高血糖",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "ステロイドの精神症状・副腎不全の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "リンパ球数減少",
+      "displayTone": "info"
+    }
+  ],
+  "cpx351": [
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重度感染症 / 肺炎 / 菌血症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "心機能低下 / 不整脈",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "呼吸不全シグナル",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "アナフィラキシー",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重篤な消化管障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "肺臓炎 / 間質性肺疾患",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "脳症",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "ネフローゼ症候群の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "warn",
+      "title": "好中球減少 / 血小板減少 / 貧血",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "下痢 / 便秘",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "口腔粘膜炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労 / 食欲低下",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発疹",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "末梢性浮腫",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "筋肉痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "腹痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "咳嗽",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "不眠症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "血球回復の遅延",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "心毒性",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "粘膜障害 / GI毒性",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "血管外漏出時の局所障害",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "シタラビン症候群の徴候",
+      "displayTone": "other"
+    }
+  ],
+  "atra": [
+    {
+      "tone": "danger",
+      "title": "分化症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "出血 / DIC",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "QT延長 / 不整脈",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度肝機能障害",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "頭蓋内圧亢進 / 偽腫瘍性脳圧亢進",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "ウェルニッケ脳症の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "血栓症の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重症薬疹の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "warn",
+      "title": "頭痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "皮疹 / 皮膚乾燥 / 口唇炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "肝機能障害",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "低K / 低Mg などの電解質異常",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "浮腫 / 体重増加",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "分化症候群",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "QT延長 / 電解質異常",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "頭蓋内圧亢進 / 視覚症状",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "高ビタミンA様症候群",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "末梢神経症状",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "早期出血合併症",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "皮膚乾燥",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "白血球増加 / 高トリグリセリド血症",
+      "displayTone": "info"
+    }
+  ],
+  "hdMtx": [
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症 / 重度感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度好中球減少",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度血小板減少 / 出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腎障害 / MTX排泄遅延",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "神経毒性 / 脳症・小脳症状",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肝障害",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肺臓炎 / 間質性肺疾患",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重症薬疹の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "アナフィラキシー",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重篤な消化管障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "PMLを示唆する神経症状",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "warn",
+      "title": "好中球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "血小板減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "貧血",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "口腔粘膜炎 / 口内炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労 / 食欲低下",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "眼障害 / 結膜炎・角膜障害",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "シタラビン症候群",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "脳症 / 小脳失調",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "腎障害による毒性遷延",
+      "displayTone": "info"
+    }
+  ],
+  "lisoCel": [
+    {
+      "tone": "danger",
+      "title": "サイトカイン放出症候群（CRS）",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "神経系事象（ICANS）",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重度感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "遷延する血球減少",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "輸注関連反応",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "HLH / MASの徴候",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "PMLを示唆する神経症状",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "溶血性貧血の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "肺臓炎 / 間質性肺疾患",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重症薬疹の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "心不全",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "出血",
+      "displayTone": "other"
+    },
+    {
+      "tone": "warn",
+      "title": "好中球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発熱",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "血小板減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "貧血 / 白血球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐・食欲低下 / 下痢",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "便秘",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "不眠症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "低血圧",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "背部痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "末梢性浮腫",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "腹痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "咳嗽",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "骨痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "高血圧",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "サイトカイン放出症候群（CRS）",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "神経系事象（ICANS）",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "低γグロブリン血症",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "遷延する血球減少",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "血尿 / 出血性膀胱炎",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "二次性悪性腫瘍 / 遅発性神経障害",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "リンパ球数減少",
+      "displayTone": "info"
+    }
+  ],
+  "epkinly": [
+    {
+      "tone": "danger",
+      "title": "サイトカイン放出症候群（CRS）",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "神経系事象（ICANS）",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重度感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度好中球減少 / 血球減少",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "PMLを示唆する神経症状",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "出血",
+      "displayTone": "other"
+    },
+    {
+      "tone": "warn",
+      "title": "発熱",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "好中球減少 / 貧血 / 血小板減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 下痢 / 食欲低下",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発疹 / 皮膚症状",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "腹痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "便秘",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "不眠症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "末梢性浮腫",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "背部痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "cycle 1 step-up dosing後の CRS",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "注射部位反応",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "発疹 / 皮膚症状",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "治療初期 12週以内に AE が集まりやすい",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "リンパ球数減少",
+      "displayTone": "info"
+    }
+  ],
+  "buTtLymphomaAsct": [
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症 / 重度感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度血球減少 / 出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肝類洞閉塞症候群 / SOS-VOD",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "痙攣 / 脳症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肺障害 / 呼吸不全",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "心筋症 / 心機能障害",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "ショック / アナフィラキシー",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腎機能障害",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "血栓性微小血管症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "warn",
+      "title": "発熱性好中球減少症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "下痢",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "口内炎 / 口腔粘膜炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "食欲不振",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "倦怠感",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "肝機能異常",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "不眠症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "直腸痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "頭痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "低K血症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "痙攣リスクと予防投薬",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "SOS / VODはday +21以降も除外しない",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "浮腫 / 体液貯留",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "チオテパ皮膚毒性",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "生着後の血小板再低下 / SFPR",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "ブスルファンの薬物相互作用",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "味覚異常",
+      "displayTone": "info"
+    }
+  ],
+  "mel200MmAsct": [
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症 / 重度感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度好中球減少",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度血小板減少 / 出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "ショック / アナフィラキシー",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重篤な肝障害 / 肝中心静脈閉塞症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "間質性肺炎 / 呼吸不全",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "溶血性貧血の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "アナフィラキシー",
+      "displayTone": "other"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "下痢",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "口内炎 / 口腔粘膜炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "AST / ALT上昇",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "白血球 / 好中球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "血小板減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "粘膜障害が dose-limiting",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "深い骨髄抑制と支持療法前提",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "腎機能悪化 / 乏尿",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "心機能障害 / 不整脈",
+      "displayTone": "info"
+    }
+  ],
+  "daEpochR": [
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症 / 重度感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度好中球減少",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度血小板減少 / 出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "輸注関連反応",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "心機能低下 / 心毒性",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肺臓炎 / 間質性肺疾患",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重症薬疹の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重篤な消化管障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "warn",
+      "title": "好中球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "貧血",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "血小板減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "口腔粘膜炎 / 口内炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "下痢",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "末梢神経障害",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "便秘 / イレウス傾向",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "口腔粘膜炎の遷延",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "出血性膀胱炎 / 血尿",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "心毒性",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "B型肝炎再活性化 / PML",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "SIADH / 水中毒の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "高血糖",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "ステロイドの精神症状・副腎不全の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "血管外漏出",
+      "displayTone": "other"
+    }
+  ],
+  "isaPd": [
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重度感染症 / 肺炎 / 敗血症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "輸注関連反応 / アナフィラキシー",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "深部静脈血栓症 / 肺塞栓症 / 脳梗塞",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "間質性肺疾患 / 肺臓炎",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重症薬疹 / SJS / TEN / DRESS",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "B型肝炎再活性化",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "進行性多巣性白質脳症（PML）",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "心不全 / 心房細動・頻脈性不整脈",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "急性腎障害",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肝障害 / 黄疸",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重篤な消化管障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "warn",
+      "title": "好中球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "貧血",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "血小板減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "上気道感染 / 気管支炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "下痢",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労 / 無力症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "便秘",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "背部痛 / 筋骨格痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "呼吸困難",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発熱",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "末梢性浮腫",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "食欲不振",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "頭痛",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "初回中心の輸注関連反応",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "血栓予防が必要",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "末梢性感覚ニューロパチー",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "高血糖 / 不眠 / 気分変化",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "骨粗鬆症 / 骨折 / 白内障",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "輸血適合性試験への干渉",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "SPE / 免疫固定法への干渉",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "催奇形性 / RevMate管理",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "二次性悪性腫瘍",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "ステロイドの精神症状・副腎不全の徴候",
+      "displayTone": "other"
+    }
+  ],
+  "cyTbiAtgTacMtxAlloPbsct": [
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症 / 重度感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "ATG輸注関連反応 / アナフィラキシー",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腎障害 / tacrolimus腎毒性",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度血小板減少 / 出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肝障害 / VOD-SOS",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "TMA / HUS / TTP",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "PMLを示唆する神経症状",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "心不全",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "肺臓炎 / 間質性肺疾患",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重症薬疹の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "重篤な消化管障害の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "B型肝炎再活性化の確認",
+      "displayTone": "other"
+    },
+    {
+      "tone": "danger",
+      "title": "BKウイルス腎症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "移植後リンパ増殖性疾患（PTLD）",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "warn",
+      "title": "白血球 / 好中球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発熱 / 悪寒",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "下痢",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "口腔粘膜炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "高血圧 / 振戦",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "血尿 / 出血性膀胱炎",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "tacrolimus神経毒性 / PRES疑い",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "CMV / EBV再活性化",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "SOS は早期 2週前後が要注意",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "血清病の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "SIADH / 水中毒の徴候",
+      "displayTone": "other"
+    },
+    {
+      "tone": "info",
+      "title": "高血糖",
+      "displayTone": "other"
+    }
+  ],
+  "venAza": [
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "発熱性好中球減少症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重度感染症 / 肺炎 / 敗血症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度血小板減少 / 出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "間質性肺疾患",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "急性腎障害 / 腎尿細管性アシドーシス",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "心不全 / 心房細動 / 心膜障害",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "低血圧 / ショック",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肝障害 / 黄疸",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "アナフィラキシー",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "分化症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "warn",
+      "title": "血小板減少 / 好中球減少 / 貧血 / 白血球減少",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 嘔吐",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "下痢 / 便秘",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "低Na血症 / 低K血症 / 低リン血症",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発熱 / 疲労 / 食欲低下",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "末梢性浮腫",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "高血圧",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "腹痛 / 口腔粘膜炎",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "咳嗽 / 呼吸困難 / 発疹 / 頭痛等",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "漸増期 / 再開時のTLS",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "骨髄抑制の遷延",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "CYP3A / P-gp相互作用によるVEN曝露増加",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "注射部位反応 / 潰瘍・壊死",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "腎尿細管性アシドーシス",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "Sweet症候群 / 炎症性皮膚障害",
+      "displayTone": "info"
+    }
+  ],
+  "mosunPola": [
+    {
+      "tone": "danger",
+      "title": "サイトカイン放出症候群（CRS）",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "重症 / 日和見感染症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "高度好中球減少 / 発熱性好中球減少症",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肺臓炎 / 間質性肺疾患",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "ICANSを含む神経学的事象",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "血球貪食性リンパ組織球症（HLH）",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "腫瘍崩壊症候群",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "血小板減少 / 出血",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "PMLを示唆する神経症状",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "danger",
+      "title": "肝機能障害",
+      "displayTone": "danger"
+    },
+    {
+      "tone": "warn",
+      "title": "注射部位反応",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "好中球減少 / 貧血",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "末梢性ニューロパチー",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "疲労",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "悪心 / 下痢",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "発疹",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "warn",
+      "title": "便秘",
+      "displayTone": "warn"
+    },
+    {
+      "tone": "info",
+      "title": "step-up dosing後の遅発CRS",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "末梢性感覚 / 運動ニューロパチー",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "腫瘍フレア",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "皮下注射反応と点滴関連反応 / 血管外漏出",
+      "displayTone": "info"
+    },
+    {
+      "tone": "info",
+      "title": "PMLの遅発神経症状",
+      "displayTone": "info"
+    }
+  ]
+}
