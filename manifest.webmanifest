@@ -1,0 +1,13 @@
+{
+  "name": "レジメンあんちょこ",
+  "short_name": "あんちょこ",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4ece4",
+  "theme_color": "#a63c2f",
+  "lang": "ja",
+  "description": "血液内科レジメンのAE・出現時期・次回投与・開始前確認を引く参照用ガイド",
+  "icons": [{"src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}

@@ -1,0 +1,66 @@
+/* styles.css is copied unchanged from RegimenAE. Reference-only additions. */
+[hidden] { display: none !important; }
+button, summary { cursor: pointer; }
+a { color: var(--accent-deep); overflow-wrap: anywhere; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+.skip-link { position: absolute; left: 16px; top: -80px; z-index: 2; padding: 12px; background: var(--panel-strong); }
+.skip-link:focus { top: 8px; }
+.hero::after { pointer-events: none; }
+.utility-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+.components { margin-top: 10px; color: var(--muted); line-height: 1.6; }
+.components p { margin: 8px 0 0; }
+.search-status, #copy-status { font-size: .88rem; line-height: 1.6; color: var(--muted); }
+.search-status:empty, #copy-status:empty { display: none; }
+.timing-card { margin: 16px 0; }
+#ae-list > .ae-section { margin: 0; padding: 16px; border: 1px solid var(--line); }
+.ae-category { margin: 0; font-size: 1.1rem; }
+#additional-aes { grid-column: 1 / -1; }
+#additional-aes > summary h3 { display: inline; margin-right: 12px; }
+.marker-other { background: rgba(113, 88, 77, .1); color: var(--muted); }
+.context-note, .ae-source-note, .rule-note { font-size: .86rem; color: var(--muted); line-height: 1.65; margin: 8px 0 14px; }
+.ae-detail { line-height: 1.65; font-size: .9rem; }
+.ae-detail p { margin: 10px 0 0; }
+.sources { font-size: .8rem; color: var(--muted); margin-top: 10px; line-height: 1.6; }
+.sources ul { padding-left: 20px; }
+.sources li + li { margin-top: 8px; }
+.sources li span { display: block; }
+.timing-row h4, .dose-row h4, .before-row h4, .recognition-item h4 { margin: 0; font-size: 1rem; }
+.timing-window { margin: 0 0 8px; font-weight: 700; line-height: 1.6; }
+.timing-kind { display: block; color: var(--muted); font-size: .78rem; font-weight: normal; }
+.timing-copy > p, .recognition-item p { margin: 8px 0 0; font-size: .9rem; line-height: 1.65; color: var(--muted); }
+.reference-section { margin: 14px 0 0; }
+.reference-section > summary { padding: 4px 0; }
+.recognition-item { margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--line); }
+#monitoring-list, .coverage-note { line-height: 1.7; font-size: .88rem; color: var(--muted); }
+.dose-top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+.row-kind, .before-kind { font-size: .78rem; color: var(--muted); }
+.dose-row .drug-name { margin: 8px 0 12px; color: var(--accent-deep); font-size: .88rem; }
+.dose-grid { display: grid; gap: 12px; margin: 0; }
+.dose-grid dt { font-size: .8rem; color: var(--muted); margin-bottom: 4px; }
+.dose-grid dd { margin: 0; font-size: .94rem; line-height: 1.7; }
+.dose-grid > div:last-child { padding: 12px; background: rgba(244, 236, 228, .8); border-radius: 12px; }
+.dose-row .rule-note, .before-row > p { margin-top: 10px; }
+.before-row .before-kind { margin: 0 0 8px; font-size: .78rem; }
+.empty-state { color: var(--muted); line-height: 1.6; }
+footer { padding: 20px 4px 0; font-size: .8rem; text-align: right; }
+@media (max-width: 720px) {
+  .utility-actions { width: 100%; }
+  .utility-actions .ghost-button { width: auto; }
+  .field { min-width: 0; }
+  .field select, .field input { min-width: 0; font-size: 16px; }
+  .dose-top { display: block; }
+  .row-kind { display: block; margin-top: 6px; }
+}
+@media print {
+  body { background: white; font-size: 10pt; }
+  .shell { width: 100%; padding: 0; }
+  .hero, .panel { background: white; box-shadow: none; backdrop-filter: none; border: 1px solid #ddd; }
+  .hero::after, .offline-status, .utility-actions, .intake-grid, .skip-link, footer, #copy-status, #search-status { display: none !important; }
+  .hero { padding: 12px; }
+  .hero h1 { font-size: 24pt; }
+  .panel { padding: 12px; }
+  .adverse-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .ae-row, .timing-row, .dose-row, .before-row { break-inside: avoid; }
+  .panel-head, h3, h4 { break-after: avoid; }
+  .empty-state { display: none; }
+}
